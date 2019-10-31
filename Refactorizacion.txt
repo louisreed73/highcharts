@@ -1,0 +1,7 @@
+
+
+Todas las dependencias en un unico archivo
+
+** importado al objeto que devuelto -exportado- a utils.js
+
+hara todas las funcionalidades:
